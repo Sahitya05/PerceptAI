@@ -72,11 +72,6 @@ python sightai.py
 - **[YOLOv5 by Ultralytics](https://github.com)** - State-of-the-art object detection.
 - **[Qt/PyQt](https://qt.io)** - High-quality frontend interface framework.
 
----
-
-## 👤 Author
-
-- **Sahitya** - [@Sahitya05](https://github.com)
 
 ---
 *Developed as part of the 6th Semester College Curriculum *
